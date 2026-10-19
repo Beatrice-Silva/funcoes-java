@@ -1,6 +1,8 @@
-/* Exercício 3.1 (Média): ler, calcular, mostrar
+ /* 
 const botao = document.querySelector("#calcular")
 const saida = document.querySelector("#resultado")
+
+
 
 botao.onclick = () => {
   // 1. ler
@@ -12,4 +14,5 @@ botao.onclick = () => {
 
   // 3. mostrar
   saida.textContent = "Média: " + media.toFixed(1)
-}*/
+}
+*/
